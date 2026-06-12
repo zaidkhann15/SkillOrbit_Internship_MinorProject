@@ -1,7 +1,7 @@
 # ============================================================
 # Project: End-to-End Exploratory Data Analysis (EDA)
 # Dataset Source: Kaggle (Titanic-style Passenger Dataset)
-# Author: Thouna | Minor Project Submission
+# Author: Zaid Khan | Minor Project Submission
 # ============================================================
 
 import pandas as pd
