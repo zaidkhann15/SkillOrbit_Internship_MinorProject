@@ -1,6 +1,6 @@
 # 📊 End-to-End Exploratory Data Analysis (EDA)
 ### Minor Project — B.E. Artificial Intelligence & Data Science
-**Author:** Thouna Khaidem &nbsp;|&nbsp; East Point College of Engineering and Technology, VTU
+**Author:** Zaid Khan &nbsp;|&nbsp; East Point College of Engineering and Technology, VTU
 
 ---
 
